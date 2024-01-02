@@ -1,0 +1,16 @@
+cycle,,RollControl::RollControll::joystickCmd,RollControl::RollControll::leftAdverseYaw,RollControl::RollControll::rightAdverseYaw,onOffPressed,,rollRate,leftWarning,rightWarning,mode
+1,,90.5,50.5,10.1,TRUE,,21.615,FALSE,TRUE,off
+2,,-101.2,13.3,-1.8,FALSE,,-25,TRUE,FALSE,off
+3,,12.4,7.6,-3.1,TRUE,,2.8325,FALSE,FALSE,nominal
+4,,90.5,50.5,10.1,TRUE,,21.615,FALSE,TRUE,failsoft
+5,,213.1,17.1,5.4,TRUE,,25,FALSE,TRUE,failsoft
+6,,13.7,23.1,34.7,TRUE,,3.715,FALSE,FALSE,nominal
+7,,-120.6,12.4,35.7,TRUE,,-25,TRUE,FALSE,failsoft
+8,,-74.5,-32.1,-17.8,TRUE,,-18.2675,FALSE,FALSE,nominal
+9,,50.9,320.3,133.2,TRUE,,8.0475,FALSE,FALSE,nominal
+10,,-90.5,-50.5,-10.1,FALSE,21.615,-21.615,TRUE,FALSE,failsoft
+11,,213.1,17.1,5.4,TRUE,25,25,FALSE,TRUE,off
+12,,13.7,23.1,34.7,TRUE,3.715,3.715,FALSE,FALSE,off
+13,,-120.6,12.4,35.7,TRUE,-25,-25,TRUE,FALSE,off
+14,,74.5,32.1,17.8,TRUE,-18.2675,18.2675,FALSE,FALSE,off
+15,,50.9,320.3,133.2,TRUE,8.0475,8.0475,FALSE,FALSE,off
